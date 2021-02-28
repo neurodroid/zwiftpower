@@ -1,3 +1,6 @@
+# (c) 2021, Christoph Schmidt-Hieber
+# See LICENSE
+
 import os
 import requests
 import fitdecode
